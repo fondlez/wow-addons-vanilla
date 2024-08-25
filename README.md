@@ -24,6 +24,6 @@ Common issue: if you downloaded your addon from a Github site, then you may need
 **Rule 1:** Make sure that in each folder immediately below `Interface\AddOns`, there is a `.toc` file in it. This is the addon folder.  
 **Rule 2:** Make sure that this addon folder matches the name of the `.toc` file.
 
-__Example__
+<ins>Example</ins>
 * GOOD :white_check_mark: : `Interface\AddOns\LunaUnitFrames\LunaUnitFrames.toc`
 * BAD :x: : `Interface\AddOns\LunaUnitFrames-master\LunaUnitFrames\LunaUnitFrames.toc`
